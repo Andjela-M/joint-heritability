@@ -1,2 +1,2 @@
 # joint-heritability
-This repository contains the code for calculating the joint heritability of sleep spindle activity and thalamic volume. The corresponding DOI will be added upon publication. 
+This repository contains the code for calculating the joint heritability of sleep spindle activity and thalamic volume, used in the study published as follows: Markovic A, Veen D, Hamann C, Adorjan K, Kaess M, Tuura O'Gorman R, Tarokh L. Joint Heritability of Sleep EEG Spindle Activity and Thalamic Volume in Early Adolescence. J Neurosci. 2025 May 21;45(21):e1138242025. doi: 10.1523/JNEUROSCI.1138-24.2025. PMID: 40216547; PMCID: PMC12096044.
